@@ -85,3 +85,6 @@ Supports both SCD Type 1 and Type 2
 🚀 Conclusion
 
 The Gold layer transforms streaming data into a structured data warehouse model, enabling efficient analytics and real-time business insights.
+
+<img width="1091" height="515" alt="7Gold" src="https://github.com/user-attachments/assets/1e960273-e006-433a-841d-35a16ae00482" />
+
