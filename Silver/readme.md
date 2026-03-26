@@ -90,3 +90,7 @@ This pipeline enriches the staging data by joining it with multiple dimension (m
 |----------------|----------------------------|---------------|
 | `silver.py`    | Data cleaning & standardization | `stg_rides`   |
 | `silver_obt.sql` | Data enrichment & joins     | `silver_obt`  |
+
+
+<img width="760" height="589" alt="6Silver" src="https://github.com/user-attachments/assets/270c88d9-f3af-4b31-af87-044f671d3fb9" />
+
