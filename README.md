@@ -16,5 +16,6 @@ Website → Event Hub → Dataricks [Bronze → Silver → Gold (Star Schema]
 - Delta Lake
 - GitHub (Static Data Storage)
 
-<img width="1536" height="1024" alt="1architecture" src="https://github.com/user-attachments/assets/ac9a731f-5dd7-41c8-be2b-6f8908c1ad72" />
+<img width="1536" height="1024" alt="1architecture" src="https://github.com/user-attachments/assets/e0c8e965-67c2-4492-b645-c486f1bf2466" />
+
 
