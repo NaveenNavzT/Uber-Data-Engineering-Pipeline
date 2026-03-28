@@ -1,0 +1,27 @@
+{
+	"name": "DS_Json",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "LS_GitHub",
+			"type": "LinkedServiceReference"
+		},
+		"parameters": {
+			"p_file": {
+				"type": "string"
+			}
+		},
+		"annotations": [],
+		"type": "Json",
+		"typeProperties": {
+			"location": {
+				"type": "HttpServerLocation",
+				"relativeUrl": {
+					"value": "NaveenNavzT/azure-data-factory/refs/heads/main/uberdata/@{dataset().p_file}",
+					"type": "Expression"
+				}
+			}
+		},
+		"schema": {}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

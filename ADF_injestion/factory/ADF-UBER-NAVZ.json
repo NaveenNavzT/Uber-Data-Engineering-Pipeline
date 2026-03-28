@@ -1,0 +1,9 @@
+{
+	"name": "ADF-UBER-NAVZ",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "30214073-6bae-4716-8033-a2bc31535bf5",
+		"tenantId": "d82491a6-e953-480b-8472-7f5fd4687634"
+	}
+}
